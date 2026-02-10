@@ -4,7 +4,7 @@ title: Pharmacognosy Drug List
 ---
 
  * Aloe
- * Castor oil
+ * Castor
  * Ispaghula
  * Senna
  * Digitalis
